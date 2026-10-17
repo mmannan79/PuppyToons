@@ -24,6 +24,7 @@ This playbook combines two workflow ideas:
 
 - [START-HERE.md](START-HERE.md) — first episode workflow.
 - [PLAYBOOK.md](PLAYBOOK.md) — end-to-end operating guide and master prompt.
+- [STORY-PLAYBOOK.md](STORY-PLAYBOOK.md) — narrated 9:16 story Shorts workflow (Seedance 2.0 + Veo 3 + VideoExpress).
 - [character-bible/azula-and-family.md](character-bible/azula-and-family.md) — identity and continuity anchors.
 - [production/five-question-video-template.md](production/five-question-video-template.md) — episode timing, script and scene template.
 - [production/narration-and-audio.md](production/narration-and-audio.md) — voice and sound rules.
